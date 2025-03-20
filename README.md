@@ -24,7 +24,7 @@
 <br>
 
 <details>
-  <summary>❗ <strong>핵심 비즈니스 시나리오</strong></summary>
+  <summary> <strong>핵심 비즈니스 시나리오</strong></summary>
 
   <br>
 
@@ -37,7 +37,7 @@
 
   ---
 
-## 📌 **핵심 비즈니스 시나리오**
+## **핵심 비즈니스 시나리오**
 
 - **4,000명** 👥 : 모 유명 스트리머(유튜브 구독자 270만, 다수의 광고 출연)의 평균 시청자 수
 - 이들이 **동시에 접속**한다면? 🏃‍♂️💨
@@ -57,7 +57,7 @@
 
 
 <details>
-  <summary>❗ <strong>백엔드 구현 전략</strong></summary>
+  <summary> <strong>백엔드 구현 전략</strong></summary>
 
 <br>
 
@@ -101,10 +101,10 @@
 
 
 </details>
-
+<br>
 
 <details>
-  <summary>❗ <strong>(최종 발표용) 핵심 시나리오에 대한 프론트엔드 체험 </strong></summary>
+  <summary> <strong>(최종 발표용) 핵심 시나리오에 대한 프론트엔드 체험 </strong></summary>
 
 http://54.180.234.216:3000/
 
@@ -113,7 +113,7 @@ http://54.180.234.216:3000/
 
 <br>
 <details>
-  <summary>📦 핵심 시나리오 와이어프레임 </summary>
+  <summary> 핵심 시나리오 와이어프레임 </summary>
 <br>
 
 
