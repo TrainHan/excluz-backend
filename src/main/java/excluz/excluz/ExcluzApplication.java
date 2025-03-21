@@ -14,4 +14,5 @@ public class ExcluzApplication {
         SpringApplication.run(ExcluzApplication.class, args);
     }
 
+
 }
